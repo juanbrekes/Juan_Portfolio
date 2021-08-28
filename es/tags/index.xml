@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mi blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/</link>
+    <description>Recent content in Tags on Mi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arbol de decisión</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/arbol-de-decisi%C3%B3n/</link>
+      <pubDate>Wed, 25 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/tags/arbol-de-decisi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clasificación</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/clasificaci%C3%B3n/</link>
+      <pubDate>Wed, 25 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/tags/clasificaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regresión logística</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/regresi%C3%B3n-log%C3%ADstica/</link>
+      <pubDate>Wed, 25 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/tags/regresi%C3%B3n-log%C3%ADstica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XGBoost</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/xgboost/</link>
+      <pubDate>Wed, 25 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/tags/xgboost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuralnetwork</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/neuralnetwork/</link>
+      <pubDate>Fri, 20 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/tags/neuralnetwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>randomforest</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/randomforest/</link>
+      <pubDate>Fri, 20 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/tags/randomforest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regresión</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/regresi%C3%B3n/</link>
+      <pubDate>Fri, 20 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/tags/regresi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

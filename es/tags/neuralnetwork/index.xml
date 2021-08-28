@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neuralnetwork on Mi blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/neuralnetwork/</link>
+    <description>Recent content in neuralnetwork on Mi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/es/tags/neuralnetwork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicción de precios de autos</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-2/</link>
+      <pubDate>Fri, 20 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-2/</guid>
+      <description>Esta vez, voy a predecir los precios de los coches usados. Construiré 4 modelos diferentes de Machine Learning y Deep Learning. Al final, veré cuál de ellos tuvo un mejor desempeño.
+Acerca de los datos
+El conjunto de datos fue parte de un concurso en machinehack.com. El objetivo es predecir el precio de un coche usado conociendo algunos de sus atributos como el modelo, el año de producción, la categoría, la marca, el tipo de combustible, el volumen del motor, el kilometraje, los cilindros, el color, los airbags y muchos más.</description>
+    </item>
+    
+  </channel>
+</rss>

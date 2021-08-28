@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/post/</link>
+    <description>Recent content in Projects on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Soccer Fever</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 25 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/post/project-3/</guid>
+      <description>This will be my first participation in a Machinehack Hackathon.
+For those who don&amp;rsquo;t know the terminology, the term &amp;ldquo;hackathon&amp;rdquo; is a compound word, a fusion of &amp;ldquo;hacking&amp;rdquo; and &amp;ldquo;marathon&amp;rdquo;. It aims at solving technical problems in an innovative and unconventional way in a deliberately limited period of time: in a few hours or days participants have to create usable software code, which translates into a grueling race to develop applications.</description>
+    </item>
+    
+    <item>
+      <title>Car Price Prediction</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 20 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/post/project-2/</guid>
+      <description>This time, I will be predicting the prices of used cars. I&amp;rsquo;ll be building 4 different Machine Learning models and Deep Learning models. In the end, I will see which one performed better.
+About the data
+The dataset was part of a hiring competition that was live on machinehack.com. The goal is to predict the price of a used car by knowing some of its attributes such as model, production year, category, brand, fuel type, engine volume, mileage, cylinders, color, airbags and many more.</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 25 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/post/project-1/</guid>
+      <description>As one of my first data science projects I decided to complete this traditional Kaggle competition, in which we will try to detect cases of fraud in credit card transactions.
+ Sensitivity of the 4 models developed for this task   Context
+Detecting fraud transactions is of great importance for any credit card company. Here we are tasked to detect potential frauds so that customers are not charged for items that they did not purchase.</description>
+    </item>
+    
+  </channel>
+</rss>

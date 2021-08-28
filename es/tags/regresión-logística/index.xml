@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regresión logística on Mi blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/regresi%C3%B3n-log%C3%ADstica/</link>
+    <description>Recent content in regresión logística on Mi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/es/tags/regresi%C3%B3n-log%C3%ADstica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Soccer Fever</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-3/</link>
+      <pubDate>Wed, 25 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-3/</guid>
+      <description>Esta será mi primera participación en una Hackathon de Machinehack.
+Para aquellos que no conocen la terminología, el término “hackathon” es una palabra compuesta, una fusión de “hacking” y “marathon”. Pretende la resolución de problemas técnicos de una manera innovadora y poco convencional en un período de tiempo deliberadamente limitado: en unas pocas horas o días los participantes tienen que crear un código de software utilizable, lo que se traduce en una carrera agotadora para desarrollar aplicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>

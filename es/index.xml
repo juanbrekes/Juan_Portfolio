@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Brekes on Mi blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/es/</link>
+    <description>Recent content in Juan Brekes on Mi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Soccer Fever</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-3/</link>
+      <pubDate>Wed, 25 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-3/</guid>
+      <description>Esta será mi primera participación en una Hackathon de Machinehack.
+Para aquellos que no conocen la terminología, el término “hackathon” es una palabra compuesta, una fusión de “hacking” y “marathon”. Pretende la resolución de problemas técnicos de una manera innovadora y poco convencional en un período de tiempo deliberadamente limitado: en unas pocas horas o días los participantes tienen que crear un código de software utilizable, lo que se traduce en una carrera agotadora para desarrollar aplicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Predicción de precios de autos</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-2/</link>
+      <pubDate>Fri, 20 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-2/</guid>
+      <description>Esta vez, voy a predecir los precios de los coches usados. Construiré 4 modelos diferentes de Machine Learning y Deep Learning. Al final, veré cuál de ellos tuvo un mejor desempeño.
+Acerca de los datos
+El conjunto de datos fue parte de un concurso en machinehack.com. El objetivo es predecir el precio de un coche usado conociendo algunos de sus atributos como el modelo, el año de producción, la categoría, la marca, el tipo de combustible, el volumen del motor, el kilometraje, los cilindros, el color, los airbags y muchos más.</description>
+    </item>
+    
+    <item>
+      <title>Detección de Fraudes con Tarjetas de Crédito</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-1/</link>
+      <pubDate>Sun, 25 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-1/</guid>
+      <description>Como uno de mis primeros proyectos de ciencia de datos decidí realizar este tradicional concurso de Kaggle, en el que trataremos de detectar casos de fraude en las transacciones con tarjetas de crédito.
+ Sensitivity of the 4 models developed for this task   Contexto
+La detección de transacciones fraudulentas es de gran importancia para cualquier empresa de tarjetas de crédito. En este caso, nuestra tarea es detectar posibles fraudes para que no se cobre a los clientes por artículos que no han comprado.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/contact/</guid>
+      <description>Puedes contactarme por cualquiera de estas plataformas
+   Plataforma URL     Linkedin: https://www.linkedin.com/in/juan-brekes-gregoris/   Github: https://github.com/juanbrekes   Kaggle: https://www.kaggle.com/juanbrekesgregoris   Facebook: https://www.facebook.com/juan.gregoris/    O siéntete libre de enviarme un mail con tus dudas o comentarios Tu nombre Dirección de correo electrónico Se requiere una dirección de correo electrónico.  Mensaje   </description>
+    </item>
+    
+  </channel>
+</rss>
