@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artículos on Mi blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/es/articles/</link>
+    <description>Recent content in Artículos on Mi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/es/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8 Pasos para Construir y Evaluar un Modelo de ML</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-2/</link>
+      <pubDate>Wed, 28 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-2/</guid>
+      <description>En este artículo describiremos brevemente los pasos a seguir para construir un buen modelo de machine learning. Si bien probablemente la parte más emocionante dentro del mundo de ML sea el desarrollo y prueba de modelos, éstos servirán de poco o nada si antes no se llevaron a cabo una serie de pasos para evaluar y garantizar la calidad de la información con la que estamos trabajando, o comprobar que realmente estemos respondiendo a las necesidades del negocio.</description>
+    </item>
+    
+    <item>
+      <title>Preguntas básicas en una entrevista de Data Science</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-1/</link>
+      <pubDate>Tue, 27 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-1/</guid>
+      <description>Harvard Business Review se refirió al científico de datos como el &amp;ldquo;trabajo más sexy del siglo XXI&amp;rdquo;. Glassdoor lo situó como el trabajo #2 dentro de los trabajos con mayor demande en América. No es de extrañar que en la nueva era del big data y el aprendizaje automático, los científicos de datos se estén convirtiendo en estrellas de rock.
+Por esto mismo, el rubro de data science es altamente competitivo, y conseguir una primera entrevista para aquellos que contamos con poca o nula experiencia previa en el rubro puede ser un desafío muy alto.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>entrevistas on Mi blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/es/tags/entrevistas/</link>
+    <description>Recent content in entrevistas on Mi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/es/tags/entrevistas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preguntas básicas en una entrevista de Data Science</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-1/</link>
+      <pubDate>Tue, 27 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-1/</guid>
+      <description>Harvard Business Review se refirió al científico de datos como el &amp;ldquo;trabajo más sexy del siglo XXI&amp;rdquo;. Glassdoor lo situó como el trabajo #2 dentro de los trabajos con mayor demande en América. No es de extrañar que en la nueva era del big data y el aprendizaje automático, los científicos de datos se estén convirtiendo en estrellas de rock.
+Por esto mismo, el rubro de data science es altamente competitivo, y conseguir una primera entrevista para aquellos que contamos con poca o nula experiencia previa en el rubro puede ser un desafío muy alto.</description>
+    </item>
+    
+  </channel>
+</rss>

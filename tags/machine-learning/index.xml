@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on My blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/tags/machine-learning/</link>
+    <description>Recent content in machine learning on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8 Steps for Building and Evaluating ML Models</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/articles/article-2/</link>
+      <pubDate>Wed, 28 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/articles/article-2/</guid>
+      <description>In this article we will briefly describe the steps to follow to build a good machine learning model. Although probably the most exciting part of the ML world is the development and testing of models, these will be of little or no use if a series of steps have not been carried out beforehand to evaluate and guarantee the quality of the information we are working with, or to check that we are really meeting the needs of the business.</description>
+    </item>
+    
+  </channel>
+</rss>

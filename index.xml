@@ -29,6 +29,25 @@ The dataset was part of a hiring competition that was live on machinehack.com. T
     </item>
     
     <item>
+      <title>8 Steps for Building and Evaluating ML Models</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/articles/article-2/</link>
+      <pubDate>Wed, 28 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/articles/article-2/</guid>
+      <description>In this article we will briefly describe the steps to follow to build a good machine learning model. Although probably the most exciting part of the ML world is the development and testing of models, these will be of little or no use if a series of steps have not been carried out beforehand to evaluate and guarantee the quality of the information we are working with, or to check that we are really meeting the needs of the business.</description>
+    </item>
+    
+    <item>
+      <title>Basic Data Science Interview Questions</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/articles/article-1/</link>
+      <pubDate>Tue, 27 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/articles/article-1/</guid>
+      <description>Harvard Business Review referred to data scientist as the &amp;ldquo;sexiest job of the 21st century.&amp;rdquo; Glassdoor ranked it the #2 job in America for 2021. It&amp;rsquo;s no wonder that in the new era of big data and machine learning, data scientists are becoming rock stars.
+For this very reason, the data science field is highly competitive, and getting a first interview for those of us with little or no prior experience in the field can be very challenging.</description>
+    </item>
+    
+    <item>
       <title>Credit Card Fraud Detection</title>
       <link>https://juanbrekes.github.io/Juan_Portfolio/post/project-1/</link>
       <pubDate>Sun, 25 Jul 2021 10:58:08 -0400</pubDate>
