@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics on My blog</title>
+    <link>https://juanbrekes.github.io/Juan_Portfolio/tags/statistics/</link>
+    <description>Recent content in statistics on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the Bias-Variance Tradeoff?</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/articles/article-3/</link>
+      <pubDate>Wed, 08 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/articles/article-3/</guid>
+      <description>In Supervised Machine Learning, an error is an important measure of how accurately our model can predict on data that it uses to learn as well as how it behaves with new, unseen data. Based on the error, we tend to choose the machine learning model which would produce the best performance on a particular dataset.
+The prediction error for any machine learning algorithm can be broken down into three parts:</description>
+    </item>
+    
+  </channel>
+</rss>

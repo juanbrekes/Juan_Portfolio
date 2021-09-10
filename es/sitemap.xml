@@ -2,18 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/arbol-de-decisi%C3%B3n/</loc>
-    <lastmod>2021-08-25T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/clasificaci%C3%B3n/</loc>
-    <lastmod>2021-08-25T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://juanbrekes.github.io/Juan_Portfolio/es/</loc>
-    <lastmod>2021-08-25T10:58:08-04:00</lastmod>
+    <lastmod>2021-09-08T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -27,13 +17,28 @@
                 href="https://juanbrekes.github.io/Juan_Portfolio/es/"
                 />
   </url><url>
-    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/regresi%C3%B3n-log%C3%ADstica/</loc>
-    <lastmod>2021-08-25T10:58:08-04:00</lastmod>
+    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/sesgo/</loc>
+    <lastmod>2021-09-08T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/statistics/</loc>
+    <lastmod>2021-09-08T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanbrekes.github.io/Juan_Portfolio/tags/statistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanbrekes.github.io/Juan_Portfolio/es/tags/statistics/"
+                />
+  </url><url>
     <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/</loc>
-    <lastmod>2021-08-25T10:58:08-04:00</lastmod>
+    <lastmod>2021-09-08T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -46,6 +51,41 @@
                 hreflang="es"
                 href="https://juanbrekes.github.io/Juan_Portfolio/es/tags/"
                 />
+  </url><url>
+    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/varianza/</loc>
+    <lastmod>2021-09-08T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-3/</loc>
+    <lastmod>2021-09-08T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juanbrekes.github.io/Juan_Portfolio/articles/article-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-3/"
+                />
+  </url><url>
+    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/arbol-de-decisi%C3%B3n/</loc>
+    <lastmod>2021-08-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/clasificaci%C3%B3n/</loc>
+    <lastmod>2021-08-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://juanbrekes.github.io/Juan_Portfolio/es/tags/regresi%C3%B3n-log%C3%ADstica/</loc>
+    <lastmod>2021-08-25T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-3/</loc>
     <lastmod>2021-08-25T10:58:08-04:00</lastmod>

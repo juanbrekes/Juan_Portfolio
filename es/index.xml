@@ -6,7 +6,17 @@
     <description>Recent content in Juan Brekes on Mi blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://juanbrekes.github.io/Juan_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Cómo lograr el equilibrio entre sesgo y varianza?</title>
+      <link>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-3/</link>
+      <pubDate>Wed, 08 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://juanbrekes.github.io/Juan_Portfolio/es/articles/article-3/</guid>
+      <description>En aprendizaje automático supervisado, la evaluación de errores es una medida importante de la precisión con la que nuestro modelo puede predecir sobre los datos que utiliza para aprender, así como de su comportamiento con datos nuevos y no vistos. Basándonos en el error, tendemos a elegir el modelo de aprendizaje automático que produzca el mejor rendimiento en un conjunto de datos concreto.
+El error de predicción de cualquier algoritmo de aprendizaje automático puede dividirse en tres partes:</description>
+    </item>
+    
     <item>
       <title>The Soccer Fever</title>
       <link>https://juanbrekes.github.io/Juan_Portfolio/es/post/project-3/</link>
